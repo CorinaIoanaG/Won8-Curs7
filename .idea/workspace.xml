@@ -1,33 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d60e3db5-b417-4dc8-a692-118587ef4b80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Won7Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Advertise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Facebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Printed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/Brd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/Bt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/Ing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise4/Student.java" afterDir="false" />
+    <list default="true" id="d60e3db5-b417-4dc8-a692-118587ef4b80" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise4/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise4/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Exercise4.Main">
     <configuration name="Exercise2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise2.Main" />
       <module name="Won7Exercises" />
@@ -102,9 +79,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise4.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exercise2.Main" />
-        <item itemvalue="Application.Exercise4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -117,6 +94,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662794426383</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1662814524398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662814524398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
