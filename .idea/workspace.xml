@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d60e3db5-b417-4dc8-a692-118587ef4b80" name="Changes" comment="First commit">
+    <list default="true" id="d60e3db5-b417-4dc8-a692-118587ef4b80" name="Changes" comment="Second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercise4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercise4/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise4/Student.java" afterDir="false" />
@@ -101,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662814524398</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit">
+      <created>1663083316955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663083316955</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
 </project>

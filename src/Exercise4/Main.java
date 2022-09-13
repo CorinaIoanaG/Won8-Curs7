@@ -1,7 +1,6 @@
 package Exercise4;
 
 public class Main {
-    static int numberOfStudents = 10;
 
     public static void main(String[] args) {
         Student student1 = new Student("Ana B", 8.65f);
@@ -24,10 +23,7 @@ public class Main {
         System.out.println(student9.getStudentName() + ": " + student9.getStudentGrade());
         Student student10 = new Student("Daria E", 9.15f);
         System.out.println(student10.getStudentName() + ": " + student10.getStudentGrade());
-        System.out.println("Averege grade of all students: " + averegeGrade());
+        System.out.println("Averege grade of all students: " + Student.averegeGrade());
     }
 
-    private static float averegeGrade() {
-        return Student.sumOfGrades/ numberOfStudents;
-    }
 }
